@@ -1,0 +1,7 @@
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\bin\Debug\CmdService.exe.config
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\bin\Debug\CmdService.exe
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\bin\Debug\CmdService.pdb
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\obj\Debug\CmdService.csproj.AssemblyReference.cache
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\obj\Debug\CmdService.csproj.CoreCompileInputs.cache
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\obj\Debug\CmdService.exe
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdService\CmdService\obj\Debug\CmdService.pdb
