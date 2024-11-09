@@ -1,0 +1,1 @@
+"# sc create CommandService binPath= "C:\path\to\your\service.exe" 
